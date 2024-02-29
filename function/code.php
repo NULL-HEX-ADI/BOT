@@ -45,7 +45,7 @@ if ((strpos($message, "/code") === 0) || (strpos($message, "!code") === 0) || (s
             $messageToSend = urlencode(
                 "↳ 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙂𝙍𝘼𝘿𝙀 𝙆𝙀𝙔 ↲
 
-<b>𖤐 BOT </b>- <a href='t.me/STRIPECHKxBOT'>𝙎𝙐𝙆𝙐𝙉𝘼 - 𝙎𝙍</a>
+<b>𖤐 BOT </b>- <a href='t.me/U_P4G_1_BOT'>𓆩𓂍𓆪</a>
 <b>𖤐 RANK - <code>SPECIAL GRADE</code>
 𖤐 FINGER KEY - <code>$formattedCode</code>
 𖤐 ACTIVATION CODE - <code>$expiryDays</code>

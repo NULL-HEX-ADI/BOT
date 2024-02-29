@@ -64,10 +64,10 @@ if (preg_match('/^(\/price|\.price|!price)/', $text))
         'inline_keyboard' => [
             [
                       
-                                 ['text' => '𝕮𝖔𝖒𝖋𝖎𝖗𝖒 𝕻𝖆𝖞𝖒𝖊𝖓𝖙', 'url' => 'https://t.me/@u_p4g'],   ], ]
+                                 ['text' => '𝕮𝖔𝖒𝖋𝖎𝖗𝖒 𝕻𝖆𝖞𝖒𝖊𝖓𝖙', 'url' => 'https://t.me/u_p4g'],   ], ]
     ]);
 
-    $caption = "〄 𝙎𝙐𝙆𝙐𝙉𝘼 - 𝙎𝙍 〄
+    $caption = "〄 𓆩𓂍𓆪 〄
 ━━━━━━━━━━━━━━━━━━
 ⑄ 𝘚𝘜𝘉𝘚𝘊𝘙𝘐𝘗𝘛𝘐𝘖𝘕 𝘖𝘕𝘓𝘠 ⑄
 ━━━━━━━━━━━━━━━━━━
@@ -94,7 +94,7 @@ if (preg_match('/^(\/price|\.price|!price)/', $text))
 [⛈️] 𝙏𝙍𝙓 𝘼𝘿𝘿𝙍𝙀𝙎𝙎 -
 <code>$trxa</code>
 
-[⛈️] 𝘽𝙄𝙉𝘼𝙉𝘾𝙀 𝙋𝘼𝙔 𝙄𝘿 - <code>$bpayid</code>
+[⛈️] 𝐔𝐏𝐈 𝙄𝘿 - <code>$bpayid</code>
 ━━━━━━━━━━━━━━━━━━
 ⚠️ 𝘛𝘏𝘐𝘚 𝘛𝘖𝘗-𝘜𝘗 𝘈𝘙𝘌 𝘕𝘖𝘕 𝘙𝘌𝘍𝘜𝘕𝘋𝘈𝘉𝘓𝘌 ⚠️";
   
