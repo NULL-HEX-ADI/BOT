@@ -22,7 +22,6 @@ www.vanguardmil.com	FALSE	/	TRUE	1709231833	_checkout_queue_checkout_token	eyJfc
 .vanguardmil.com	TRUE	/	FALSE	1709314643	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
 .vanguardmil.com	TRUE	/	FALSE	1740764080	_tracking_consent	%7B%22reg%22%3A%22%22%2C%22region%22%3A%22INMH%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%7D
 .vanguardmil.com	TRUE	/	FALSE	1740764243	_shopify_y	a518dcf1-772a-430a-8216-3f0d03576904
-.vanguardmil.com	TRUE	/	FALSE	1709230043	_shopify_s	475b677a-00a2-4943-933f-f7182d24ab19
 #HttpOnly_www.vanguardmil.com	FALSE	/	TRUE	1711820081	_secure_session_id	740aaa57c1457d01744fa50b674371e7
 #HttpOnly_www.vanguardmil.com	FALSE	/7202413/checkouts/bba16ae66e6b3f207dafbf63cec6ce92	TRUE	1711038900	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVV6WkRrM1pESXpPV1V5TWpVeFpEazRabUV3TWpOalptVTROVEF4T1RJeE5BWTZCa1ZVIiwiZXhwIjoiMjAyNC0wMy0yMVQxNjozNTowMC40NzlaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--8ec5105eb3942ea7ce72b8143936c27f7867edee
 #HttpOnly_www.vanguardmil.com	FALSE	/7202413	TRUE	1740764242	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVV4TURjek4yRmtNek0xWVRobE9USTJPR001TWpaaU1UYzRZVGMyTWpJM05RWTZCa1ZVIiwiZXhwIjoiMjAyNS0wMi0yOFQxNzozNzoyMi4yNTRaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--3e41fd010c52fe1d8c6a82ac52e8c18d142eb8f5
