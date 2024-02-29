@@ -482,7 +482,7 @@ $bota";
 ////// Charge Gate Page 5 /\\\\\
 $premiumgButton = json_encode([
 'inline_keyboard' => [
-                                 [['text' => "⥫ 𝕭𝖆𝖈𝖐 𝕻𝖆𝖌𝖊 𝟒", 'callback_data' => 'freeg'], ['text' => "𝟓 𝕹𝖊𝖝𝖙 𝕻𝖆𝖌𝖊 ⥭", 'callback_data' => 'mm']],
+                                 [['text' => "⥫ 𝕭𝖆𝖈𝖐 𝕻𝖆𝖌𝖊 𝟒", 'callback_data' => 'freeg'], ['text' => "𝟓 𝕹𝖊𝖝𝖙 𝕻𝖆𝖌𝖊 ⥭", 'callback_data' => 'freeh']],
                                  [['text' => '𝕳𝖔𝖒𝖊', 'callback_data' => 'gates']]
                              ]
 
@@ -534,7 +534,7 @@ $bota";
 
 $freeButton = json_encode([
 'inline_keyboard' => [
-                                 [['text' => "⥫ 𝕭𝖆𝖈𝖐 𝕻𝖆𝖌𝖊 𝟎", 'callback_data' => 'premium'], ['text' => "𝟐 𝕹𝖊𝖝𝖙 𝕻𝖆𝖌𝖊 ⥭", 'callback_data' => 'premiump']],
+                                 [['text' => "⥫ 𝕭𝖆𝖈𝖐 𝕻𝖆𝖌𝖊 1", 'callback_data' => 'premium'], ['text' => "𝟐 𝕹𝖊𝖝𝖙 𝕻𝖆𝖌𝖊 ⥭", 'callback_data' => 'premiump']],
                                  [['text' => '𝕳𝖔𝖒𝖊', 'callback_data' => 'gates']]
                              ]
 
@@ -582,7 +582,7 @@ $bota";
 
 $freeButton = json_encode([
 'inline_keyboard' => [
-                                 [['text' => "⥫ 𝕭𝖆𝖈𝖐 𝕻𝖆𝖌𝖊 𝟐", 'callback_data' => 'premium'], ['text' => "𝟑 𝕹𝖊𝖝𝖙 𝕻𝖆𝖌𝖊 ⥭", 'callback_data' => 'mm']],
+                                 [['text' => "⥫ 𝕭𝖆𝖈𝖐 𝕻𝖆𝖌𝖊 1", 'callback_data' => 'premium'], ['text' => "𝟑 𝕹𝖊𝖝𝖙 𝕻𝖆𝖌𝖊 ⥭", 'callback_data' => 'mm']],
                                  [['text' => '𝕳𝖔𝖒𝖊', 'callback_data' => 'gates']]
                              ]
 
@@ -712,7 +712,7 @@ if ($cdata2 == "herr") {
 //========finalize end=========//
 $channel = json_encode([
     'inline_keyboard' => [
-        [['text' => "𝕮𝖍𝖆𝖓𝖓𝖊𝖑", 'url' => "t.me/BR0KEN_CC"], ['text' => "𝕲𝖗𝖔𝖚𝖕", 'url' => "t.me/CHATxPLAYZ"]],
+        [['text' => "𝕮𝖍𝖆𝖓𝖓𝖊𝖑", 'url' => "t.me/u_p4g_bot_support"], ['text' => "𝕲𝖗𝖔𝖚𝖕", 'url' => "t.me/u_p4g_bot_support"]],
         [['text' => "𝕭𝖆𝖈𝖐 ", 'callback_data' => 'back2']]
     ]
 ]);
