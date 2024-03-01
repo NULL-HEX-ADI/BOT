@@ -3,7 +3,7 @@
 
 if (strpos($message, "/remexp") === 0) {
     // Read the owner's chat ID from the file
-    $ownerId = trim(file_get_contents('Database/owner.txt'));
+    $ownerId = trim(file_get_contents('Database/NULL.txt'));
 
     // Check if the user's chat ID matches the owner's chat ID
     if ($chatId != $ownerId) {
