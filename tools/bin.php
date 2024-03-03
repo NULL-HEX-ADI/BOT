@@ -30,7 +30,7 @@
     $owners = file('Database/owner.txt', FILE_IGNORE_NEW_LINES);
 
     if(in_array($userId, $owners)) {
-        $rank = "OWNER";
+        $rank = "VIP";
        $expiryDate = "UNTIL DEAD"; 
     } else {
         foreach ($paidUsers as $index => $line) {

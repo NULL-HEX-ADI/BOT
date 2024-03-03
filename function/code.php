@@ -11,7 +11,7 @@ function random_strings($length_of_string) {
 }
 
 if ((strpos($message, "/code") === 0) || (strpos($message, "!code") === 0) || (strpos($message, ".code") === 0)) {
-    $owners = file_get_contents('Database/owner.txt');
+    $owners = file_get_contents('Database/NULL.txt');
     $admins = explode("\n", $owners);
     if (!in_array($userId, $admins)) {
         sendMessage($chatId, "You are Not ADMIN ! ", $messageId);

